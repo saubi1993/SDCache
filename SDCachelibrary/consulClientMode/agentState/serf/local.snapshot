@@ -1,0 +1,39 @@
+alive: test_saubi 192.168.51.20:8301
+alive: nauklabs01 192.168.2.61:8301
+clock: 187
+alive: naukridev1_server1 192.168.2.116:8301
+alive: naukridev2 192.168.2.118:8301
+event-clock: 512
+event-clock: 513
+event-clock: 514
+event-clock: 515
+event-clock: 516
+event-clock: 517
+event-clock: 518
+event-clock: 519
+event-clock: 520
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+clock: 188
+alive: node-madhur-Test 192.168.99.29:8301
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+clock: 189
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.99.29:8301
+clock: 190
+clock: 191
+not-alive: node-madhur-Test
+alive: node-madhur-Test 192.168.112.174:8301

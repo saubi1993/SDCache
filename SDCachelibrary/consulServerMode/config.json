@@ -1,0 +1,8 @@
+{
+    "server": true,
+    "datacenter": "Naukri",
+    "data_dir": "/apps/SDCachelibrary/consulServerMode/agentState",
+    "ui_dir": "/apps/SDCachelibrary/consulUi/dist/",
+    "node_name": "kash",
+    "bootstrap": true
+}

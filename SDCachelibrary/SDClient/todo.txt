@@ -1,0 +1,7 @@
+host name 
+monitoring alerts
+endpoint keys as name
+protocol as http
+method name in caps
+endpoint as endpoints , name
+hide weights

@@ -1,0 +1,12 @@
+{
+    "server": false,
+    "datacenter": "Naukri",
+    "data_dir": "/apps/SDCachelibrary/consulClientMode/agentState",
+    "ui_dir": "/apps/SDCachelibrary/consulUi/dist/",
+    "node_name": "test_saubi" ,
+    "watches" :[ {
+				  "type": "event",
+				  "name": "service",
+				  "handler": "/apps/SDCachelibrary/eventHandling/handler.sh"
+	}]
+}

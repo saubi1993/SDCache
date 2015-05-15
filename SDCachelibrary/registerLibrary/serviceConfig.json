@@ -1,0 +1,25 @@
+{"ip"	   : "192.168.51.20",
+"port"     : 8000,
+"name"     : "webs123",
+"id"       : "1",
+"tag"      : "tag1",
+"endpoints" : {   
+				"savefile" :
+					{
+						"uri"    : "http://192.168.167.198/2.3/service.php",
+						"method" : "get"
+					},
+				"book" :
+					{
+						"uri"    : "google.com/book",
+						"method" : "get"
+					},
+				"car" :
+					{
+						"uri"    : "google.com/car",
+						"method" : "get"
+					}
+			},
+"weight" : 2,
+"protocol" :"http"
+}
