@@ -1,3 +1,7 @@
+## SDCache (Service Discovery Cache In SOA) ::
+ * Developed the concept of Service Directory Cache  which Caches all services' information locally on the service consumer machine
+ * No need for dig and curl commands to discover service information Language optimized cache configs.
+
 ## To setup consul and SDCache , follow the following commands ::
 
 * Download consul binary from  	https://consul.io/downloads.html
